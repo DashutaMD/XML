@@ -1,0 +1,13 @@
+<BugReport>
+  <ID>1</ID>
+  <Project>Course</Project>
+  <Title>Bug</Title>
+  <Environment>Win10</Environment>
+  <STR>1,2,3</STR>
+  <Severity>Blocker</Severity>
+  <Priority>High</Priority>
+  <Status>New</Status>
+  <Author>MD</Author>
+  <ER>Passed</ER>
+  <AR>Failed</AR>
+</BugReport>
